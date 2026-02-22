@@ -1,5 +1,5 @@
 <!-- Banner / Header -->
-<h1 align="center">Hi 👋, I'm Tarun Chauha</h1>
+<h1 align="center">Hi 👋, I'm Tarun Chauhan</h1>
 <h3 align="center">Backend Engineer • Java | Spring Boot | Microservices</h3>
 
 <!-- Social Links -->
