@@ -19,7 +19,7 @@
 
 🌱 I’m currently learning **Kubernetes internals, AWS architecture patterns, and event-driven systems**.
 
-💬 Ask me about **Java, Spring Boot, Microservices, Kafka, Redis, API design, SQL optimization, AWS**.
+💬 Ask me about **C/C++, Java, Spring Boot, Microservices, System Design, Kafka, Redis, API design, SQL optimization, AWS**.
 
 ⚡ Fun fact: I love turning complex backend problems into **elegant, scalable solutions**.
 
@@ -36,19 +36,19 @@
 ---
 
 # 📊 GitHub Stats:
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sibasish5&theme=dark&hide_border=false" />
-</p> -->
+
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=chauhan-1999&theme=dark&hide_border=false" />
 </p>
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibasish5&theme=dark&layout=compact&hide_border=false" />
-</p> -->
-
 
 ---
 
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chauhan-1999&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+</div>
+
+---
 
 ## 🤝 Connect with Me
 
@@ -68,5 +68,14 @@
 </p>
 
 ---
+<div align="center">
+  
+### 💡 "Building the future, one deployment at a time" 
+  
+![Profile Views](https://komarev.com/ghpvc/?username=chauhan-1999&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/chauhan-1999?label=Follow&style=social)](https://github.com/chauhan-1999)
 
+</div>
+
+---
 ⭐ From [chauhan-1999](https://github.com/chauhan-1999)
